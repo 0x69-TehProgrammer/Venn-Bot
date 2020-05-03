@@ -15,3 +15,7 @@ If you wish to join my discord server, please click: https://bit.ly/VenomBitesHe
 If you wish to invite Venn (my bot) to your server, please click: https://bit.ly/venomIsLife
 
 Thanks for reading!
+
+
+**WARNING!**: THIS BOT IS PROTECTED BY AN APACHE LICENSE WHICH MEANS IF YOU TAKE ANY SUCH AMOUNT OF MY CODE, THERE WILL BE CONSEQUENCES! 
+this warning is especially talking about you, skidders. enjoy <3
